@@ -109,7 +109,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Ghoshrijit2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Ghoshrijit2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 </div>
 
