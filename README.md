@@ -23,34 +23,16 @@
 
 ---
 
-## ⚡ About Me
-
-```dart
-class RijitGhosh {
-  final String role     = "Flutter App Developer & AI Enthusiast";
-  final String location = "Jaipur / Kolkata, India 🇮🇳";
-  final String degree   = "B.Tech CSE @ UEM Jaipur (CGPA: 8.32)";
-
-  final List<String> currentlyBuilding = ["NexusPro — cross-platform Flutter productivity app"];
-  final List<String> currentlyLearning = ["LLMs", "Advanced Flutter Animations", "Web3 / Solidity"];
-  final List<String> openTo            = ["Flutter collabs", "AI/ML projects", "Full-stack builds"];
-
-  String get funFact => "🎸 3rd place @ MOOD 2025 — I ship apps AND perform on stage!";
-}
-```
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| 🔥 **[NexusPro](https://github.com/Ghoshrijit2004/NexusPro)** | Flutter · Firebase · Dart | Cross-platform productivity app with real-time sync & push notifications |
-| 🍔 **[Food Delivery Platform](https://github.com/Ghoshrijit2004/food_delivery)** | Node.js · MongoDB · AI | Smart delivery platform with AI-powered price comparison |
+| 🔥 **NexusPro** | Flutter · Firebase · Dart | Cross-platform productivity app with real-time sync & push notifications |
+| 🍔 **Food Delivery Platform** | Node.js · MongoDB · AI | Smart delivery platform with AI-powered price comparison |
 | 🌿 **Leaf Disease Detection** | Python · TensorFlow · CNN · OpenCV | ML model for real-time plant disease classification |
-| ⛓️ **[Charity Leaderboard](https://github.com/Ghoshrijit2004/CharityLeaderboard)** | Solidity · Blockchain | Tamper-proof decentralised donation tracker |
+| ⛓️ **Charity Leaderboard** | Solidity · Blockchain | Tamper-proof decentralised donation tracker |
 
 </div>
 
