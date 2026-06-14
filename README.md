@@ -33,6 +33,7 @@
 | 🍔 **Food Delivery Platform** | Node.js · MongoDB · AI | Smart delivery platform with AI-powered price comparison |
 | 🌿 **Leaf Disease Detection** | Python · TensorFlow · CNN · OpenCV | ML model for real-time plant disease classification |
 | ⛓️ **Charity Leaderboard** | Solidity · Blockchain | Tamper-proof decentralised donation tracker |
+| 👾 **Jarvis** | Python · Groq · Macos | A fully voice-activated AI assistant for Mac |
 
 </div>
 
